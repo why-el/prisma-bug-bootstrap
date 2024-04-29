@@ -1,6 +1,6 @@
-# C'est quoi ca?
+# C'est quoi ça?
 
-This is a simple repo that setups up Prisma so that you can confirm something about it, like how a command works, or whether is has a bug somewhere, and so on. For instance, in `index.ts`, we show a bug with `deleteMany` (it deletes records when the `notIn` predicate for the `where` clause for an attribute is undefined or an empty array). Change that code or the `schema.prisma` file to test anything you want.
+This is a simple repo that setups up Prisma so that you can confirm something about it, like how a command works, or whether it has a bug somewhere, and so on. For instance, in `index.ts`, we show a bug with `deleteMany` (it deletes records when the `notIn` predicate for the `where` clause for an attribute is undefined or an empty array). Change that code or the `schema.prisma` file to test anything you want.
 
 ## Setup
 
